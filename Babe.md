@@ -19,7 +19,7 @@ pip install line_notify
 ```python
 from line_notify import LineNotify
 
-ACCESS_TOKEN = "L52Z9PAH4kZ82JHSkfjTQ234c1cY2iAKdafaWYv77Ad"
+ACCESS_TOKEN = "yFR0tuLh9FQSIfarSxRIQPuRBz6zxguh84aX14NkSQR"
 
 notify = LineNotify(ACCESS_TOKEN)
 
